@@ -2,8 +2,14 @@ namespace HelloWorld
 {
 	class Hello {		
 		static void Main(string[] args)
-		{
-			System.Console.WriteLine("Hello World");
+		{	
+			int a=10;
+			int b=20;
+			int c=0;
+			c = a+b;
+			System.Console.WriteLine(c);
 		}
 	}
 }
+
+	
