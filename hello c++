@@ -1,5 +1,18 @@
 #include <iostream>
 int main() {
+
     std::cout << "Hello World";
     return 0;
+    
 }
+
+
+function sum(int a, int b) {
+
+    int c=0;
+    c=a+b;
+    cout << c;
+}
+
+sum(10, 20);
+
