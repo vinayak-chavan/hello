@@ -5,6 +5,7 @@ class first
     system.out.println("Hello World");
    }
 }
+
 class second
 {
   public static void main(string args[])
