@@ -1,7 +1,6 @@
 IDENTIFICATION DIVISION.
 PROGRAM-ID. Hello-world.
 PROCEDURE DIVISION.
-    DISPLAY "Hello World". 
-    
+    DISPLAY "Hello World".
 PROCEDURE DIVISION.
-    DISPLAY "This is cobol program". 
+    DISPLAY "This is cobol program".
