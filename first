@@ -3,6 +3,5 @@ Hello This is simple hello world program
 #include<stdio.h>
 
 void main() {
-  printf("This is my first program);
-  printf("Hello World);
+  printf("Hello World);  
 }
