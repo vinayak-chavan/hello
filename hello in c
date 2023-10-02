@@ -3,18 +3,15 @@ Void main()
 {
   printf("Hello World");
 }
-
 void sum(int a, int b){
   int c=0;
   c= a+b;
   printf(c);
 }
-
 void subtraction(int a, int b){
   int c=0;
   c= a-b;
   printf(c);
 }
-
 sum(10, 20);
 subtraction(50, 30);
